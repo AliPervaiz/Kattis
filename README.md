@@ -1,12 +1,12 @@
 # Intro
 Here are all of the problems I've done on Kattis!
 
-# Ranking as of 9/25/2019
-Globally: #261
+# Ranking as of 9/29/2019
+Globally: #259
 
-United States: Top 100
+United States: #50
 
-Texas: #16
+Texas: #14
 
 North Carolina: #3
 
